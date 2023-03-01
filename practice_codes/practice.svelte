@@ -2,4 +2,4 @@
     let name = "World"
 </script>
 
-<h> Hello {name}! </h>
+<h1> Hello {name}! </h1>
